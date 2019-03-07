@@ -1,0 +1,141 @@
+
+Performance measures for Experiment3
+Bank Account of agent for PRandom,Experiment3
+     Steps    Reward
+       100        56
+
+Terminal state reached at steps PRandom,[]
+
+Performance measures for Experiment3
+Bank Account of agent for PExploit,Experiment3
+     Steps    Reward
+       300        64
+       400       100
+       500       156
+       600       134
+       700       -15
+       800        93
+       900       110
+      1000        62
+      1100        58
+      1200       140
+      1300        92
+      1400        57
+      1500       214
+      1600       166
+      1700       105
+      1800        70
+      1900        48
+      2000       -52
+      2100      -152
+      2200       -10
+      2300       150
+      2400       102
+      2500        28
+      2600         4
+      2700         8
+      2800        12
+      2900        68
+      3000        76
+      3100        93
+      3200        32
+      3300       -68
+      3400       -77
+      3500        97
+      3600       140
+      3700       118
+      3800        44
+      3900        89
+      4000       119
+      4100       110
+      4200        10
+      4300       -77
+      4400        61
+      4500        52
+      4600        82
+      4700       -18
+      4800      -105
+      4900        17
+      5000        34
+      5100        25
+      5200       -49
+      5300       -58
+      5400         0
+      5500       108
+      5600        47
+      5700        64
+      5800       -10
+      5900        70
+
+Terminal state reached at steps PExploit,[344, 672, 1054, 1402, 1636, 2190, 2578, 2920, 3454, 3820, 4318, 4878, 5400, 5814]
+Number of operators needed to reach terminal state [344, 328, 382, 348, 234, 554, 388, 342, 534, 366, 498, 560, 522, 414]
+Performance measures for Experiment3
+Bank Account of agent for PRandom,Experiment3
+     Steps    Reward
+       100        -9
+
+Terminal state reached at steps PRandom,[]
+
+Performance measures for Experiment3
+Bank Account of agent for PExploit,Experiment3
+     Steps    Reward
+       300        38
+       400       -36
+       500      -110
+       600        38
+       700       120
+       800       150
+       900        60
+      1000       129
+      1100        42
+      1200         7
+      1300        -9
+      1400        34
+      1500        90
+      1600        42
+      1700       140
+      1800       170
+      1900       122
+      2000        77
+      2100        68
+      2200        46
+      2300       -28
+      2400        74
+      2500        78
+      2600        56
+      2700       -18
+      2800         0
+      2900       160
+      3000       164
+      3100        77
+      3200       146
+      3300        98
+      3400        24
+      3500       -50
+      3600        83
+      3700       126
+      3800        26
+      3900       -61
+      4000        61
+      4100        52
+      4200       121
+      4300        73
+      4400       110
+      4500       192
+      4600        92
+      4700         0
+      4800       121
+      4900        86
+      5000        64
+      5100       -36
+      5200      -110
+      5300        92
+      5400       122
+      5500        22
+      5600       -52
+      5700      -152
+      5800        -2
+      5900        54
+
+Terminal state reached at steps PExploit,[560, 830, 1278, 1632, 1934, 2344, 2800, 3060, 3514, 3970, 4302, 4700, 5210, 5798]
+Number of operators needed to reach terminal state [560, 270, 448, 354, 302, 410, 456, 260, 454, 456, 332, 398, 510, 588]

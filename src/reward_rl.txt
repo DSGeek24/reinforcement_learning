@@ -1,0 +1,141 @@
+
+Performance measures for Experiment1
+Bank Account of agent for PRandom,Experiment1
+     Steps    Reward
+       100        69
+       200        21
+       300       -14
+       400      -101
+       500      -175
+       600      -275
+       700      -362
+       800      -462
+       900      -549
+      1000      -636
+      1100      -723
+      1200        -2
+      1300       -11
+      1400       -20
+      1500        10
+      1600       -51
+      1700      -125
+      1800      -225
+      1900      -325
+      2000      -412
+      2100      -499
+      2200        -4
+      2300       -39
+      2400        30
+      2500         8
+      2600       -40
+      2700      -114
+      2800      -214
+      2900      -314
+
+Terminal state reached at steps PRandom,[1198, 2196]
+Number of operators needed to reach terminal state [1198, 998]
+Performance measures for Experiment1
+Bank Account of agent for PGreedy,Experiment1
+     Steps    Reward
+      3100       154
+      3200       132
+      3300        84
+      3400       118
+      3500       148
+      3600        23
+      3700        66
+      3800        18
+      3900        -4
+      4000       -52
+      4100         3
+      4200       163
+      4300       180
+      4400        80
+      4500        18
+      4600        -4
+      4700        26
+      4800         4
+      4900       -18
+      5000        56
+      5100       216
+      5200       116
+      5300        42
+      5400        46
+      5500        63
+      5600        54
+      5700         6
+      5800        80
+      5900        84
+
+Terminal state reached at steps PGreedy,[1198, 2196, 3020, 3310, 3584, 4090, 4492, 4952, 5316, 5724]
+Number of operators needed to reach terminal state [1198, 998, 824, 290, 274, 506, 402, 460, 364, 408]
+Performance measures for Experiment1
+Bank Account of agent for PRandom,Experiment1
+     Steps    Reward
+       100        -9
+       200         8
+       300       -66
+       400       -75
+       500      -123
+       600      -223
+       700      -323
+       800      -423
+       900      -497
+      1000      -597
+      1100       -45
+      1200       -93
+      1300       -89
+      1400       -98
+      1500      -185
+      1600      -233
+      1700      -307
+      1800      -407
+      1900      -507
+      2000      -594
+      2100      -694
+      2200      -794
+      2300        25
+      2400        29
+      2500        46
+      2600       -28
+      2700      -102
+      2800      -137
+      2900      -224
+
+Terminal state reached at steps PRandom,[1016, 2286]
+Number of operators needed to reach terminal state [1016, 1270]
+Performance measures for Experiment1
+Bank Account of agent for PGreedy,Experiment1
+     Steps    Reward
+      3100        58
+      3200       218
+      3300       101
+      3400         4
+      3500       190
+      3600        90
+      3700        25
+      3800       120
+      3900       137
+      4000        40
+      4100        44
+      4200       113
+      4300       135
+      4400        74
+      4500        10
+      4600        92
+      4700        31
+      4800        48
+      4900       -10
+      5000       124
+      5100       102
+      5200        80
+      5300        12
+      5400       -10
+      5500        33
+      5600       131
+      5700        44
+      5800        74
+      5900        16
+
+Terminal state reached at steps PGreedy,[1016, 2286, 3028, 3206, 3378, 3686, 3936, 4214, 4484, 4890, 5208, 5536, 5890]
+Number of operators needed to reach terminal state [1016, 1270, 742, 178, 172, 308, 250, 278, 270, 406, 318, 328, 354]
